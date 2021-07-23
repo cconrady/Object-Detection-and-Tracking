@@ -1,4 +1,4 @@
-# Finding Nemo: Automated Detection and Classification of Red Roman in Unconstrained Underwater Environments Using Mask R-CNN
+# Christopher (Chris) Conrady | Portfolio
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
