@@ -1,4 +1,4 @@
-# Christopher (Chris) Conrady | Portfolio
+# Finding Nemo: Automated Detection and Classification of Red Roman in Unconstrained Underwater Environments Using Mask R-CNN
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
@@ -9,7 +9,7 @@ Still used today, the most widely used method of analysis for marine ecological 
 
 Please see [here](https://drive.google.com/drive/folders/1ltqEYAN5qIrL1B_SHkg6SYGlIRaUX7-o) for the full research paper.
 
-[![Red Roman Object Tracking](assets/1a_mask_tracking.gif)](https://www.youtube.com/watch?v=28aIeKxBsrY)
+[![Red Roman Object Tracking](assets/red_roman_tracking_sample.gif)](https://www.youtube.com/watch?v=28aIeKxBsrY)
 
 ## Installation
 
